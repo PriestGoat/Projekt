@@ -60,7 +60,7 @@ int main()
 
         cout << "Liczba drzwi: " << drzwi << endl;
         cout << "Liczba okien: " << okna << endl;
-        cout << "Do pomalowania pomieszczenia trzeba kupic " << puszki << " puszek farby." << endl;
+        cout << "Do pomalowania pomieszczenia potrzeba" << puszki << " puszek farby." << endl;
 
     }
     else {
